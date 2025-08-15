@@ -2,7 +2,6 @@
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning, and data visualization.
 Project on Road Accident Dashboard
 
-Your Excel dashboard on road accidents is a stellar example of data storytelling and analytical depth. Here's a full breakdown of the insights, skills demonstrated, and some impressive commentary to showcase your work professionally:
 
 ---
 
@@ -40,15 +39,11 @@ Your Excel dashboard on road accidents is a stellar example of data storytelling
 | **User Experience Design** | Intuitive layout with filter panels and clear legends for easy navigation. |
 | **Storytelling with Data** | Translated complex datasets into actionable insights for decision-makers. |
 
----
-
-### 💬 Impressive Comments You Can Use
 
 - "This dashboard transforms raw accident data into a powerful visual narrative that highlights critical safety concerns."
 - "The layered breakdown by vehicle, road type, and light condition offers granular insights for targeted policy-making."
 - "A seamless blend of analytical rigor and design clarity—this dashboard is built for both insight and impact."
 - "The monthly trend comparison adds a dynamic time-series perspective, enabling year-over-year performance tracking."
 
----
+<img width="1850" height="898" alt="Screenshot 2025-08-15 141017" src="https://github.com/user-attachments/assets/dab19c97-a0d4-4310-9529-567820298f97" />
 
-Would you like help turning this into a LinkedIn post or GitHub project description? I can help you polish it for maximum professional impact.
